@@ -28,6 +28,7 @@
     "lru-cache": "^7.18.3",
     "lucide-react": "^0.123.0",
     "next": "13.2.3",
+    "next-sitemap": "^4.2.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "tailwind-merge": "^1.10.0",
