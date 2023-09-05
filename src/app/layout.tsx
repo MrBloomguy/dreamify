@@ -5,6 +5,7 @@ import Image from "next/image";
 import Logo from "../assets/logo.png";
 import { Github, Twitter } from "lucide-react";
 import { Analytics } from "@vercel/analytics/react";
+import Script from "next/script";
 
 /**
  * @name metadata
@@ -54,6 +55,12 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className={inter.className}>
+      <Script
+        async
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3814557801868623"
+        crossOrigin="anonymous"
+        id="dreamify-adsense"
+      />
       <body>
         <header className="flex flex-row items-center gap-x-4 justify-center">
           <Link href="/" className="flex flex-row items-center gap-x-4">
