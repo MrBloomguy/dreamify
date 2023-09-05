@@ -12,9 +12,9 @@ import { Analytics } from "@vercel/analytics/react";
  * @link https://beta.nextjs.org/docs/api-reference/file-conventions/head
  */
 export const metadata = {
-  title: "Dreamify",
+  title: "Dreamify - Free AI Image Generator",
   description:
-    "A simple generator of images with AI. Using Stable Diffusion. Built on Next.js 13.2",
+    "A simple generator of images with AI. Using Stable Diffusion. Generate free AI images with Dreamify. No sign up required. No watermarks.",
   keywords: ["stable-diffusion", "machine-learning"],
   generator: "Next.js",
   openGraph: {
