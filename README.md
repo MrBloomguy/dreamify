@@ -1,49 +1,49 @@
-<p align="center">
+![image](https://github.com/MrBloomguy/dreamify/assets/90579247/f49b66ca-2a87-4745-b960-702313989985)<p align="center">
   <img
     src=".github/logo.png"
     align="center"
     width="100"
-    alt="Dreamify"
-    title="Dreamify"
+    alt="Jigi"
+    title="JíGí"
   />
-  <h1 align="center">Dreamify</h1>
+  <h1 align="center">JíGí</h1>
 </p>
 
 <p align="center">
-  🌈 Dreamify is a web application that allows you to generate images with AI 🎨
+   Bring local stories to live with JíGí AI art generator 🎨
 </p>
 
 <p align="center">
   🚀 Over 500 generations!
 </p>
 
-![Dreamify Preview](./.github/preview.png)
+![JíGí Preview](./.github/preview.png)
 
 ## 🚀 Concept
 
-Dreamify is a web application that allows you to generate images with AI. It uses the [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release) model to generate images. The model is run on cloud with [Replicate](https://replicate.com/).
+JiGi is a JíGí fork. It is a web application that allows you to generate images with AI. It uses the [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release) model to generate images. The model is run on cloud with [Replicate](https://replicate.com/).
 
 ### 🎨 Stable Diffusion
 
 [Stable Diffusion](https://en.wikipedia.org/wiki/Stable_Diffusion) is a deep learning, text-to-image model released in 2022. It is primarily used to generate detailed images conditioned on text descriptions, though it can also be applied to other tasks such as inpainting, outpainting, and generating image-to-image translations guided by a text prompt.
 
-This Diffusion Model is run on cloud with [Replicate](https://replicate.com/). Replicate is a platform for running and sharing machine learning models. Dreamify uses the Replicate API to run the model.
+This Diffusion Model is run on cloud with [Replicate](https://replicate.com/). Replicate is a platform for running and sharing machine learning models. JíGí uses the Replicate API to run the model.
 
 ### ✨ User Interface
 
-Dreamify is built with [Tailwind CSS](https://tailwindcss.com/). Components like the Buttons, Inputs, Modals and Progress Bar are developed with [Shadcn/ui](https://ui.shadcn.com/docs), a collection of re-usable components built using [Radix UI](https://www.radix-ui.com/).
+JiGi is built with [Tailwind CSS](https://tailwindcss.com/). Components like the Buttons, Inputs, Modals and Progress Bar are developed with [Shadcn/ui](https://ui.shadcn.com/docs), a collection of re-usable components built using [Radix UI](https://www.radix-ui.com/).
 
 ## 📦 Deployment
 
-Dreamify is deployed on [Vercel](https://vercel.com/).
+JiGi is deployed on [Vercel](https://vercel.com/).
 
 ## 🚀 Core Development
 
-Dreamify is built with [Next.js 13.2](https://nextjs.org/), [React](https://reactjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
+JíGí is built with [Next.js 13.2](https://nextjs.org/), [React](https://reactjs.org/) and [Tailwind CSS](https://tailwindcss.com/).
 
 Since it's the latest build of Next.js, it uses many of the new features like [Image Component](https://nextjs.org/docs/api-reference/next/image), [File System Routing](https://nextjs.org/docs/routing/introduction) and [Incremental Static Regeneration](https://nextjs.org/docs/basic-features/data-fetching#incremental-static-regeneration).
 
-If you want to run Dreamify locally, after clone this repository and run the following commands:
+If you want to run JíGí locally, after clone this repository and run the following commands:
 
 ```bash
 # Install dependencies
@@ -69,11 +69,8 @@ npm run dev
 
 ## 🤲 Contributing
 
-Dreamify is an open source project.
+JíGí is an open source project forked from [https://dreamify.art/]
 
-If you want to be the author of a new feature, fix a bug or contribute with something new.
-
-Fork the repository and make changes as you like. [Pull requests](https://github.com/360macky/dreamify/pulls) are warmly welcome.
 
 ## 📃 License
 
