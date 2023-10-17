@@ -1,6 +1,5 @@
-<blockquote class="imgur-embed-pub" lang="en" data-id="5NFv8UX"><a href="https://imgur.com/5NFv8UX">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-  <img
-    src="https://imgur.com/5NFv8UX"
+<img
+    src="/imgur.com/5NFv8UX"
     align="center"
     width="100"
     alt="Jigi"
