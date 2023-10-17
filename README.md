@@ -1,6 +1,6 @@
-![image](https://github.com/MrBloomguy/dreamify/assets/90579247/f49b66ca-2a87-4745-b960-702313989985)<p align="center">
+
   <img
-    src=".github/logo.png"
+    src="[.github/logo.png](https://imgur.com/5NFv8UX)"
     align="center"
     width="100"
     alt="Jigi"
