@@ -5,7 +5,7 @@
     alt="Jigi"
     title="JíGí"
   />
-  src="https://github.com/MrBloomguy/JiGi/blob/main/.github/jigilogoo.png"<h1 align="center">JíGí</h1>
+  <h1 align="center">JíGí</h1>
 </p>
 
 <p align="center">
