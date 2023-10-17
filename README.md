@@ -1,5 +1,5 @@
 <img
-    src="(https://github.com/MrBloomguy/JiGi/blob/main/.github/jigilogoo.png)"
+    src="https://github.com/MrBloomguy/JiGi/blob/main/.github/jigilogoo.png"
     align="center"
     width="100"
     alt="Jigi"
