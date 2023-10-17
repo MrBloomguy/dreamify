@@ -1,6 +1,6 @@
 
   <img
-    src="[.github/logo.png](https://imgur.com/5NFv8UX)"
+    src="https://imgur.com/5NFv8UX"
     align="center"
     width="100"
     alt="Jigi"
